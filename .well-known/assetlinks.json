@@ -49,5 +49,17 @@
         "31:F4:09:90:3F:38:6F:85:C4:3A:87:46:E2:AF:F5:15:A3:FF:C0:D6:9C:74:C6:E5:AD:9A:C7:4D:BB:C8:31:DC"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.raviv.butz",
+      "sha256_cert_fingerprints": [
+        "F7:EB:1B:45:98:DC:C6:13:56:ED:F5:0E:FA:C6:96:C3:E6:84:00:8C:98:D2:65:7C:1F:8D:C2:DE:81:4C:FE:BB"
+      ]
+    }
   }
 ]
