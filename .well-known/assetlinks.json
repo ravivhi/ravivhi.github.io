@@ -58,7 +58,8 @@
       "namespace": "android_app",
       "package_name": "com.raviv.butz",
       "sha256_cert_fingerprints": [
-        "F7:EB:1B:45:98:DC:C6:13:56:ED:F5:0E:FA:C6:96:C3:E6:84:00:8C:98:D2:65:7C:1F:8D:C2:DE:81:4C:FE:BB"
+        "F7:EB:1B:45:98:DC:C6:13:56:ED:F5:0E:FA:C6:96:C3:E6:84:00:8C:98:D2:65:7C:1F:8D:C2:DE:81:4C:FE:BB",
+        "DE:D0:70:08:8A:BA:34:18:D6:E7:CF:B7:83:C2:ED:C9:B5:D0:8D:81:F8:C1:12:92:DC:DA:F4:D0:69:EA:BC:52"
       ]
     }
   }
